@@ -1,10 +1,22 @@
 {
   "language": "english",
   "groups": [
-    [0, 100],
-    [101, 300],
-    [301, 600],
-    [601, 9999]
+    [
+      0,
+      100
+    ],
+    [
+      101,
+      300
+    ],
+    [
+      301,
+      600
+    ],
+    [
+      601,
+      9999
+    ]
   ],
   "quotes": [
     {
@@ -39007,6 +39019,126 @@
       "source": "Personal knowledge: Towards a Post-Critical Philosophy",
       "id": 6912,
       "length": 227
+    },
+    {
+      "text": "Personal knowledge is the compass that guides us through the vast expanse of existence, leading us to the profound truths that lie beyond the realm of conventional understanding.",
+      "source": "Visions of Wisdom",
+      "id": 6913,
+      "length": 184
+    },
+    {
+      "text": "The tapestry of personal knowledge is woven with the threads of curiosity and introspection, forming a mosaic of insights that shape our perception of reality.",
+      "source": "Visions of Wisdom",
+      "id": 6914,
+      "length": 157
+    },
+    {
+      "text": "Deep within the recesses of personal knowing, lies the key to unlocking the mysteries of the universe, offering a glimpse into the interconnectedness of all things.",
+      "source": "Paths of Enlightenment",
+      "id": 6915,
+      "length": 176
+    },
+    {
+      "text": "In the realm of personal knowledge, the boundaries of what is known and unknown blur, inviting us to embark on a perpetual journey of discovery and self-transformation.",
+      "source": "The Quest for Understanding",
+      "id": 6916,
+      "length": 192
+    },
+    {
+      "text": "True wisdom emerges when personal knowledge is shared and exchanged, illuminating new pathways of understanding that enrich the collective human experience.",
+      "source": "Insights of Enlightenment",
+      "id": 6917,
+      "length": 162
+    },
+    {
+      "text": "The essence of personal knowledge lies in embracing the inherent subjectivity of experience, allowing it to shape our understanding of the world in unique and meaningful ways.",
+      "source": "The Subjective Lens",
+      "id": 6918,
+      "length": 195
+    },
+    {
+      "text": "Personal knowledge is a tapestry of perspectives, interwoven with the threads of individual experiences and interpretations, forming a rich and diverse fabric of understanding.",
+      "source": "The Patchwork of Insight",
+      "id": 6919,
+      "length": 199
+    },
+    {
+      "text": "Within the depths of personal knowing, lies the seed of self-discovery, awaiting the nurturing touch of curiosity and reflection to bloom into profound insights.",
+      "source": "The Inner Journey",
+      "id": 6920,
+      "length": 176
+    },
+    {
+      "text": "Personal knowledge is the alchemical fusion of curiosity and openness, transforming the mundane into the extraordinary and revealing hidden truths within the ordinary.",
+      "source": "Alchemy of Understanding",
+      "id": 6921,
+      "length": 193
+    },
+    {
+      "text": "In the tapestry of personal knowledge, every thread of experience and understanding contributes to the vibrant mosaic of wisdom that shapes our perception of the world.",
+      "source": "The Mosaic of Wisdom",
+      "id": 6922,
+      "length": 206
+    },
+    {
+      "text": "Personal knowledge is a lantern that illuminates the path of self-discovery, guiding us towards deeper insights and a richer understanding of ourselves and the world.",
+      "source": "The Illuminated Self",
+      "id": 6923,
+      "length": 191
+    },
+    {
+      "text": "In the realm of personal knowledge, the mind becomes a fertile soil where ideas take root and bloom, nurturing the growth of wisdom and expanding the horizons of understanding.",
+      "source": "Garden of Insight",
+      "id": 6924,
+      "length": 208
+    },
+    {
+      "text": "Personal knowledge is the symphony of our experiences, composed of the melodies of perception and the harmonies of introspection, weaving together a tapestry of profound understanding.",
+      "source": "The Melodies Within",
+      "id": 6925,
+      "length": 208
+    },
+    {
+      "text": "True enlightenment arises when personal knowledge transcends the boundaries of the self, connecting us to the collective wisdom of humanity and the eternal truths that bind us all.",
+      "source": "Beyond the Self",
+      "id": 6926,
+      "length": 202
+    },
+    {
+      "text": "Personal knowledge is the key that unlocks the doors of perception, revealing the hidden wonders and infinite possibilities that lie beyond the veil of ordinary existence.",
+      "source": "The Key to Perception",
+      "id": 6927,
+      "length": 201
+    },
+    {
+      "text": "In the realm of personal knowledge, the quest for understanding becomes an odyssey of the mind, navigating the seas of uncertainty and embarking on a transformative journey of discovery.",
+      "source": "The Odyssey of Understanding",
+      "id": 6928,
+      "length": 216
+    },
+    {
+      "text": "Personal knowledge is the compass that steers us through the vast ocean of information, helping us navigate the currents of knowledge and chart our course towards deeper understanding.",
+      "source": "Navigating the Knowledge Sea",
+      "id": 6929,
+      "length": 214
+    },
+    {
+      "text": "Within the depths of personal knowing, lies the seed of creativity, waiting to be nurtured and cultivated into innovative ideas and groundbreaking insights that shape our world.",
+      "source": "The Creative Seed",
+      "id": 6930,
+      "length": 205
+    },
+    {
+      "text": "Personal knowledge is the catalyst that sparks the flame of curiosity, igniting a lifelong passion for learning and propelling us towards the frontiers of discovery and innovation.",
+      "source": "The Spark of Curiosity",
+      "id": 6931,
+      "length": 209
+    },
+    {
+      "text": "In the tapestry of personal knowledge, diverse perspectives and contrasting viewpoints are threads that create a vibrant mosaic of understanding, fostering empathy and fostering growth.",
+      "source": "The Mosaic of Perspectives",
+      "id": 6932,
+      "length": 213
     }
   ]
 }
